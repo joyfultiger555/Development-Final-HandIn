@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Joseph Friedman",
+        "age": 44,
+        "branch": "Legislative",
+        "part": "Senate",
+        "party": "Democrat",
+        "state": "Rhode Island"
+    },
+    {
+        "name": "Seth Krauder",
+        "age": 50,
+        "branch": "Legislative",
+        "part": "House of Representatives",
+        "party": "Republican",
+        "state": "Maryland"
+    },
+    {
+        "name": "Michael Orville",
+        "age": 38,
+        "branch": "Legislative",
+        "part": "House of Representatives",
+        "party": "Democrat",
+        "state": "Vermont"
+    },
+    {
+        "name": "John Smith",
+        "age": 58,
+        "branch": "Judicial",
+        "part": "Supreme Court",
+        "party": "Democrat",
+        "state": "Virginia"
+    },
+    {
+        "name": "Noah Martin",
+        "age": 66,
+        "branch": "Judicial",
+        "part": "Supreme Court",
+        "party": "Democrat",
+        "state": "Alaska"
+    },
+    {
+        "name": "Isabella Johnson",
+        "age": 36,
+        "branch": "Legislative",
+        "part": "Senate",
+        "party": "Libertarian",
+        "state": "Maine"
+    },
+    {
+        "name": "Michael Dadzie",
+        "age": 40,
+        "branch": "Legislative",
+        "part": "House of Representatives",
+        "party": "Republican",
+        "state": "Georgia"
+    },
+    {
+        "name": "Lindsay Johnson",
+        "age": 50,
+        "branch": "Executive",
+        "part": "Department of Justice",
+        "party": "Democrat",
+        "state": "New York"
+    },
+    {
+        "name": "Elizabeth Johnston",
+        "age": 55,
+        "branch": "Executive",
+        "part": "Federal Bureau of Investigation",
+        "party": "Republican",
+        "state": "California"
+    },
+    {
+        "name": "Robert Nassir",
+        "age": 58,
+        "branch": "Judicial",
+        "part": "Supreme Court",
+        "party": "Republican",
+        "state": "Nevada"
+    },
+    {
+        "name": "Gregory Valerie",
+        "age": 60,
+        "branch": "Legislative",
+        "part": "Senate",
+        "party": "Democrat",
+        "state": "Colorado"
+    },
+    {
+        "name": "Joseph Biden",
+        "age": 80,
+        "branch": "Executive",
+        "part": "President",
+        "party": "Democrat",
+        "state": "Pennsylvania"
+    }
+
+]
